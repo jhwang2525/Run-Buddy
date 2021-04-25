@@ -1,0 +1,65 @@
+Coding Boot Camp Day 1
+
+setup linked in account
+
+pwd - prints working directory
+
+ls - list contects of the working directory (where am i) show desktop navigations
+
+cd- change directory
+ cd <directory name>(use tab key)
+../ - go back to the directory (go up a directory)
+
+mkdir <file name> make directory
+
+touch - create file
+
+code . - opens vs code
+
+rm - remove file
+
+rm -r <file path> - remove directory
+
+cp <file name><path for new copy>- copy a file
+
+
+Coding Boot Camp Day 2
+
+git clone <https or ssh url> - clones the repo
+
+git init
+
+to push changes from our local machine to the remore repo
+git status
+git add <file names>
+git status
+git commit -m "commit message"
+git status
+git statusgit push -- origin main
+
+to pull change from the remotee repo to our local machine
+git fetch
+
+
+git pull
+
+git branch - lists out the branches and tells you waht branch you're on.
+
+git status
+
+see the change track of status
+
+VS Code
+OL = numbers point
+
+LI = bullet point
+
+ls -a (show hidden files)
+
+Day 3
+
+Do a fetch pull
+
+float move to left or right
+
+object-fit: " " to resize or make the resolution better
