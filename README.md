@@ -8,7 +8,7 @@ HTML
 CSS
 
 
-Deployed URL:
+Deployed URL:https://jhwang2525.github.io/Run-Buddy/
 
 
 Contribution
